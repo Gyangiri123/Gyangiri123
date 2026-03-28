@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I AM GYAN GIRI
 ---
 
 ## 🧑‍💻 About Me
@@ -8,7 +8,7 @@
 * 🌱 Learning **Machine Learning & System Design**
 * 💡 Passionate about solving real-world problems
 * 🎯 Goal: Become a **Top Software Engineer**
-* 📫 Email: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Email: **[gyangirisidhi2090@gmail.com](mailto:gyangirisidhi2090@gmail.com)**
 
 ---
 
